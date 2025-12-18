@@ -33,9 +33,11 @@ build/
 .vscode/
 
 # ===== SECURITY / SECRETS =====
-.env
+docker/.env
 *.key
 *.pem
 *.jks
 application-secrets.yml
 application-secrets.properties
+application-local.properties
+
