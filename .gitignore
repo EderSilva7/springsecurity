@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# ===== SECURITY / SECRETS =====
+.env
+*.key
+*.pem
+*.jks
+application-secrets.yml
+application-secrets.properties
